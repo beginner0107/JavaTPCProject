@@ -21,14 +21,14 @@ https://programmingbeginner.tistory.com/160?category=1258699
 P3 Excel에 이미지 저장하기(2)<br>
 https://programmingbeginner.tistory.com/161?category=1258699
 
-P3. Excel에 cell의 DataType 알아보기(3)
+P3. Excel에 cell의 DataType 알아보기(3)<br>
 https://programmingbeginner.tistory.com/162?category=1258699
 
-P4. iText API를 이용한 PDF table 만들기(1)
+P4. iText API를 이용한 PDF table 만들기(1)<br>
 https://programmingbeginner.tistory.com/164?category=1258699
 
-P4. iText API를 이용한 PDF table 만들기(2)
+P4. iText API를 이용한 PDF table 만들기(2)<br>
 https://programmingbeginner.tistory.com/165?category=1258699
 
-P5. Socket(소켓)이 만들어지는 과정(TCP 3-way Handshake)(2)
+P5. Socket(소켓)이 만들어지는 과정(TCP 3-way Handshake)(2)<br>
 https://programmingbeginner.tistory.com/167?category=1258699
